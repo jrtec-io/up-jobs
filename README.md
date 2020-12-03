@@ -1,4 +1,4 @@
-# upwork-jobs
+# up-jobs
 
 # Create environment python
 py -m venv env
